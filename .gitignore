@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Build output
+build/
+*.elf
+*.bin
+*.map
+
+# Local secrets (if you later move credentials out of the sketch)
+secrets.h
