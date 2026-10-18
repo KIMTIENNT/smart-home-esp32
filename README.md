@@ -71,4 +71,4 @@ Before using your own card, set the card UID in `VALID_UID` (the UID is printed 
 ## Team
 
 - Door access, DHT11 and Bluetooth RGB LED (this repo): Nguyen Thi Kim Tien
-- Rain-sensing drying rack and flame alarm (ESP32 #2): [teammate name, add only with her permission]
+- Rain-sensing drying rack and flame alarm (ESP32 #2): teammate
