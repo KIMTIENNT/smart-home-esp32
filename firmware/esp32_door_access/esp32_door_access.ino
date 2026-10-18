@@ -70,7 +70,7 @@ Keypad keypad = Keypad(
 // --- FLASH & TRẠNG THÁI ---
 Preferences preferences;
 
-String VALID_PASSWORD = "0953"; // Mật khẩu mặc định
+String VALID_PASSWORD = "1234"; // Mật khẩu mặc định
 String input_password = "";
 
 enum SystemMode {
